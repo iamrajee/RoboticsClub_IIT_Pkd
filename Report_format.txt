@@ -1,0 +1,27 @@
+1) Team Name - xyz
+2) Team leader -      Contact - 1234567890
+3) Other Members:
+    Name - xyz, Roll no. - xyz
+    Name - xyz, Roll no. - xyz, etc.
+
+
+1) Line follower (IR sensor)
+    Videolink          Codelink
+
+2) Obstacles avoider (IR sensor)
+    Videolink          Codelink
+
+3) Obstacles avoider (Ultrasonic sensor and servo)
+    Videolink          Codelink
+
+4) Table top robot
+    Videolink          Codelink
+
+5) Blootooth controlled robot
+    Videolink          Codelink
+
+6) line follow (Picam and Raspberry pi)
+    Videolink          Codelink
+
+7) Green ball follower (Picam and Raspberry pi)
+    Videolink          Codelink
